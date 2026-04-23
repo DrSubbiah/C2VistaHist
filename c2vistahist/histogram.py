@@ -310,5 +310,5 @@ def enriched_histogram(
         hoverlabel    = dict(bgcolor="white", font_size=11),
     )
 
-    fig.show()
+    #fig.show()
     return fig
